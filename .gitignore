@@ -1,0 +1,16 @@
+vendor/
+node_modules/
+npm-debug.log
+license.txt
+README.txt
+
+# Project specific
+fonts/
+img/
+notes/
+scripts/
+styles/
+
+
+
+
